@@ -19,5 +19,5 @@ print("Twoje imie podane z klawiatury: " + imie)
 nazwisko = input("Podaj nazwisko: " +)
 print("Twoje nazwisko podane z klawiatury: " + nazwisko)
 
-
-
+y=4
+print(type(y))
